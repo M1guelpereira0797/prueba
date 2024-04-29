@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swicht", "..\swicht\swicht.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "universidad", "..\universidad\universidad.csproj", "{D518F99C-8E1C-44D4-8903-E2ED7950512C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validacion de usuario", "..\validacion de usuario\validacion de usuario.csproj", "{3B15A74A-A100-4840-AED6-46E4C11275F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B15A74A-A100-4840-AED6-46E4C11275F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B15A74A-A100-4840-AED6-46E4C11275F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B15A74A-A100-4840-AED6-46E4C11275F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B15A74A-A100-4840-AED6-46E4C11275F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
