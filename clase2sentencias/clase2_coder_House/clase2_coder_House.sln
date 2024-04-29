@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase2_coder_House", "clase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swicht", "..\swicht\swicht.csproj", "{8FBDE1F3-00C7-42BC-9915-FD8B6EFA7A6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "universidad", "..\universidad\universidad.csproj", "{D518F99C-8E1C-44D4-8903-E2ED7950512C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8FBDE1F3-00C7-42BC-9915-FD8B6EFA7A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FBDE1F3-00C7-42BC-9915-FD8B6EFA7A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FBDE1F3-00C7-42BC-9915-FD8B6EFA7A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D518F99C-8E1C-44D4-8903-E2ED7950512C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
