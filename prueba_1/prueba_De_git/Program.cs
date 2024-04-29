@@ -9,6 +9,11 @@ Console.WriteLine("Escritbe tu edad: ");
 string edad = Console.ReadLine();
 Console.WriteLine("En que ciudad vives: ");
 string ciudad = Console.ReadLine();
-Console.WriteLine(" Tu nombre es " + nombre +  "tu edad es " + edad  +   "tu ciudad es: "  + ciudad );
+Console.WriteLine("Cual es tu altura? : ");
+string altura = Console.ReadLine();
+Console.WriteLine("Cual es tu Rut? : ");
+string rut = Console.ReadLine();
+Console.WriteLine(" Tu nombre es:  " + nombre +  " tu edad es:  " + edad  +   " tu ciudad es:  "  + ciudad + 
+    " tu altura es: " + altura + "tu rut es: " + rut);
 
 
