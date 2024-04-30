@@ -14,11 +14,11 @@ while (ingreso)
         Console.WriteLine("Bienvenido");
         break;
     }
-   else if(intentos >= 5) 
+   else if(intentos >= 3) 
         {
         Console.WriteLine("Has intentado mas de 5 veces con la contraseña");
         break;
     }
-    Console.WriteLine("Intente de nuevo, agoto los intentos maximos");
+    Console.WriteLine("Intente de nuevo");
 
 }
